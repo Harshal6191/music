@@ -1,0 +1,108 @@
+*{
+    margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+.top-section{
+    background-image: url(music.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    min-height: 500px;
+    background-size: cover;
+    text-align: center;
+    border-radius: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    background-attachment: fixed;
+
+}
+.text h1{
+    font-size: 50px;
+    color: brown;
+    padding: 10px;
+}
+.text p{
+   color: white;
+}
+.medium-section{
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 10px;
+    border-radius: 10px;
+    background-color: lightcyan;
+    align-items: center;
+    display: flex;
+    min-height: 250px;
+    
+}
+
+.soft{
+    
+    background-image: url(image1.jpg);
+    background-size: cover;
+    color: white;
+    padding: 10px;
+    margin-left: 10px;
+    border-radius: 10px;
+    min-width: 300px;
+}
+.sad{
+    background-image: url(image2.jpg);
+    background-size: cover;
+    color: white;
+    padding: 10px;
+    margin-left: 10px;
+    border-radius: 10px;
+    min-width: 300px;
+
+}
+
+.alone{
+    background-image: url(image3.jpg);
+    background-size: cover;
+    color: white;
+    padding: 10px;
+    margin-left: 10px;
+    border-radius: 10px;
+    min-width: 300px;
+    margin-right: 10px;
+
+}
+.video{
+
+    display: flex;
+    border-radius: 10px;
+    background-color: lightseagreen;
+    align-items: center;
+    background-size: cover;
+    min-height: 200px;
+    margin-top: 10px;
+    margin-left: 10px;
+    padding: 20px;
+    gap: 100px;
+
+}
+.savan{
+padding: 30px;
+
+
+}
+.text h3{
+    color: white;
+}
+.footer{
+    margin-top: 10px;
+    text-align: center;
+    background-image: url(image3.jpg);
+    background-size: cover;
+    color: white;
+    padding: 10px;
+    margin-left: 10px;
+    border-radius: 10px;
+    min-width: 300px;
+    margin-bottom: 20px;
+    
+}
+.mail{
+    color: lightgreen;
+}
